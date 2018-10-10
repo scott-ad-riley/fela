@@ -5,9 +5,11 @@
 bidi-css-js@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/bidi-css-js/-/bidi-css-js-3.1.0.tgz#369c611b0ac6b5fc8e834f7c36b2eada60a7fe61"
+  integrity sha512-+7tV2kPdPzNFIQhbwYu0XsBaNcrRnaAhppO7q8J9J8J0S+7LYTwzka7NReIR1H748xQzZXlCT1OvHMc7sQULXw==
   dependencies:
     rtl-css-js "^1.9.0"
 
 rtl-css-js@^1.9.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/rtl-css-js/-/rtl-css-js-1.9.0.tgz#3052f8ba39c7afd1450b06602a7606480c5dcc7f"
+  integrity sha512-A2E3Gd6VGm9mtVfD5SSHeNvq0eEAP2RUPtxoVWRMjDVz1bdXlILn3zYHoQo8IG4P8yI85kkUy9fHslqjNxtBsw==
